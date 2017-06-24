@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">FuelPrices</string>
+
+        <string name="country_prompt">Choose a country</string>
+
+        <string-array name="country_arrays">
+            <item>Ahmedabad</item>
+            <item>Bengaluru</item>
+            <item>Bhopal</item>
+            <item>Chandigarh</item>
+            <item>Chennai</item>
+            <item>Coimbatore</item>
+            <item>Delhi</item>
+            <item>Goa</item>
+            <item>Guntur</item>
+            <item>Guwahati</item>
+            <item>Hyderabad</item>
+            <item>Indore</item>
+            <item>Jaipur</item>
+            <item>Kolkata</item>
+            <item>Lucknow</item>
+            <item>Ludhiana</item>
+            <item>Mangalore</item>
+            <item>Mumbai</item>
+            <item>Nagpur</item>
+            <item>Mysore</item>
+            <item>Pune</item>
+            <item>Surat</item>
+            <item>Trivandrum</item>
+            <item>Udaipur</item>
+            <item>Vizag</item>
+
+        </string-array>
+
+    <string-array name="fuel_arrays">
+
+        <item>Diesel</item>
+        <item>Petrol</item>
+
+    </string-array>
+
+</resources>
